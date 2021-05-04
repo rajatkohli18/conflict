@@ -1,11 +1,2 @@
 my name is rajat kohli
 
-<<<<<<< HEAD
-my my my my my my
-
-
-
-my nane
-=======
-my my my my my my
->>>>>>> nb
